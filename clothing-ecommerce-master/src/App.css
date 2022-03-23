@@ -1,0 +1,17 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding: 20px 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.option {
+    cursor: pointer;
+}
+
+*{
+    box-sizing: border-box;
+}
